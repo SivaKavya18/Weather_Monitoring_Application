@@ -1,0 +1,3 @@
+requests  # For making HTTP requests to the OpenWeatherMap API
+schedule   # For scheduling tasks
+matplotlib # For visualizing weather trends
